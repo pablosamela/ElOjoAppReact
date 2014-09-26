@@ -4,8 +4,16 @@
         <title>http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Getting-Started-with-AngularJS</title>
     </head>
     <body>
-        <div></div>
-        <script src="lib/vendor/jquery.js"></script>
-        <script src="lib/vendor/angular.js"></script>
+        <div ng-controller="TestCtrl">
+            <h1></h1>
+            <input type="text" ng-model="title">
+        </div>
+        <script src="js/lib/vendor/jquery.js"></script>
+        <script src="js/lib/vendor/angular.js"></script>
+        <script>
+            function TestCtrl($scope){
+                $scope.title = 'Write a title here...';
+            };
+        </script>
     </body>
 </html>
