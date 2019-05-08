@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "section": {
+        "name": "Articles in English",
+        "id": "335",
+        "description": "Articles in English"
+      }
+    },
+    {
+      "section": { "name": "BitCoin", "id": "12944", "description": "BitCoin" }
+    },
+    {
+      "section": {
+        "name": "Deportes",
+        "id": "9",
+        "description": "Actualizacion de noticias deportivas en Argentina y el mundo; F\u00f3rmula Uno."
+      }
+    },
+    {
+      "section": {
+        "name": "Econom\u00eda y Negocios",
+        "id": "7",
+        "description": "Econom\u00eda y Negocios"
+      }
+    },
+    {
+      "section": {
+        "name": "elecciones - candidatos 2011",
+        "id": "1307",
+        "description": "Elecciones - candidatos 2011"
+      }
+    },
+    {
+      "section": {
+        "name": "Estados Unidos",
+        "id": "4204",
+        "description": "Estados Unidos"
+      }
+    },
+    {
+      "section": {
+        "name": "Internacionales",
+        "id": "1",
+        "description": "Noticias Internacionales"
+      }
+    },
+    {
+      "section": {
+        "name": "Internet & Tecnolog\u00eda",
+        "id": "8",
+        "description": "Noticias de Internet y Tecnolog\u00eda en El Ojo Digital"
+      }
+    },
+    {
+      "section": {
+        "name": "Jubilados",
+        "id": "4367",
+        "description": "Jubilados"
+      }
+    },
+    {
+      "section": {
+        "name": "Libros recomendados",
+        "id": "2674",
+        "description": "Libros recomendados"
+      }
+    }
+  ]
+}
